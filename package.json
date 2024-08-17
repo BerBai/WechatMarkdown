@@ -1,0 +1,37 @@
+{
+  "name": "wechat-markdown",
+  "version": "1.0.0",
+  "description": "A online markdown converter specially for Wechat Public formatting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berbai/wechat-markdown.git"
+  },
+  "keywords": [
+    "wechat",
+    "markdown",
+    "format"
+  ],
+  "author": "Jay Pai <jay.pai.dev.work@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berbai/wechat-markdown/issues"
+  },
+  "homepage": "https://github.com/berbai/wechat-markdown",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.5.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "json-loader": "^0.5.7",
+    "jsx-loader": "^0.13.2",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.23.0",
+    "url-loader": "^1.1.1",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
